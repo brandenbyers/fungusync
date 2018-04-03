@@ -1,9 +1,12 @@
 /*
- * Project mushroom-environment-tracker
- * Description:
- * Author:
- * Date:
+ * Project Mushroom Environment Tracker (MET)
+ * Description: Mushroom growth alerting system
+ * Author: Branden Byers
+ * Date: 2018
  */
+
+#include "SparkFunBME280.h"
+#include "uCommand.h"
 
 // setup() runs once, when the device is first turned on.
 void setup() {
