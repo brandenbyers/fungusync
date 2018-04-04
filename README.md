@@ -8,10 +8,10 @@ The Mushroom Environment Tracker (MET) is a prototype device that can be used to
 
 ## Hardware
 
-Particle Electron (temporary proof-of-concept solution using 2G/3G)
-Twilio SIM (for M2M)
-BME280 sensor (humidity, temperature, and pressure)
-Soil Moisture Sensor
+- Particle Electron (temporary proof-of-concept solution using 2G/3G)
+- Twilio SIM (for M2M)
+- BME280 sensor (humidity, temperature, and pressure)
+- Soil Moisture Sensor
 
 ## Caveats
 
